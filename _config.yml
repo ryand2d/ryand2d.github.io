@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ryand2d space/acc"
+title                    : "ryand2d 🚀/ACC"
 title_separator          : "-"
 name                     : &name "ryand2d.eth"
 description              : &description "personal thoughts and musings about accelerating our multiplanetary future"
@@ -25,7 +25,7 @@ author:
   name             : "ryand2d.eth"
   pronouns         : # example: "she/her"  
   bio              : "Space/ACC"
-  location         : "Earth, for now"
+  location         : "Earth (for now)"
   employer         : "MoonDAO"
   uri              : # URL
   email            : "ryan@moondao.com" 
@@ -77,7 +77,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -200,16 +200,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "ryand2d.eth Space/ACC"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About ryand2d
+# About
 
-Welcome to my corner of the internet! I'm ryand2d, a passionate contributor to [MoonDAO](https://www.moondao.com) and a firm believer in the democratization of space exploration. My journey into the realms of space and technology is driven by curiosity and a deep-seated desire to see humanity venture beyond the confines of our home planet.
+Welcome to my corner of the internet! I'm Ryan, a passionate contributor to [MoonDAO](https://www.moondao.com) and a firm believer in the democratization of space exploration. My journey into the realms of space and technology is driven by curiosity and a deep-seated desire to see humanity venture beyond the confines of our home planet.
 
-[ryand2d.eth](https://app.ens.domains/ryand2d.eth)
+ENS: [ryand2d.eth](https://app.ens.domains/ryand2d.eth)
 
 ## A Bit About Me
 
